@@ -28,5 +28,3 @@ else:
   print("Sorry you have to grow taller before you ride")
 
   
-  #Udemy 100 days of code 
-
